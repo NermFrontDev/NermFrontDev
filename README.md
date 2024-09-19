@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nahum Ramirez</h1>
 <h3 align="center">A passionate frontend developer living in Arizona</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nermfrontdev" alt="nermfrontdev" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nermfrontdev" alt="nermfrontdev" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [nermportfolio.vercel.app](nermportfolio.vercel.app)
 
