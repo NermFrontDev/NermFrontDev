@@ -1,3 +1,5 @@
+<img src="[https://media.licdn.com/dms/image/v2/D4E16AQG3zWCTuHoEug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682902870163?e=1732147200&v=beta&t=RWN5WIZiu0YtRKRKPeMsWdVrkibjmnx46bil3ApLW0M]">
+
 <h1 align="center">Hi 👋, I'm Nahum Ramirez</h1>
 <h3 align="center">A passionate frontend developer living in Arizona</h3>
 
