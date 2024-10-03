@@ -5,18 +5,12 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nermfrontdev" alt="nermfrontdev" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [nermportfolio.vercel.app](nermportfolio.vercel.app)
-
-- 💬 Ask me about **JavaScript, Angular, React, Sass, UI/UX**
-
-- 📫 How to reach me **nerm.frontend@gmail.com**
-
 
 ###
+<br>
+<div align = "center">
 
-<img align="right" height="150" src="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/224810547_1517560485252413_2708738244244194039_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=cGBwUzNuwRgQ7kNvgH7M-4L&_nc_ht=scontent-phx1-1.xx&oh=00_AYAcQrRpSWG8KXkLGWUpfP9zGh6qUJtp_bJXhyNe4Hg3rw&oe=66F25C1A"  />
-
-###
+<h2 align="center">🛠️ Languages I use</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -83,6 +77,9 @@
 </div>
 
 ###
+<br>
+
+<h2 align="center">📫 Connect with me</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -96,8 +93,25 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nermfrontdev&show_icons=true&locale=en&layout=compact" alt="nermfrontdev" /></p>
+<br>
+<h2 align="center">📊 Github Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nermfrontdev&show_icons=true&locale=en" alt="nermfrontdev" /></p>
+<div align = "center">
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nermfrontdev&" alt="nermfrontdev" /></p>
+![Stats Overview](https://raw.githubusercontent.com/NermFrontDev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/NermFrontDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</div>
+
+<br>
+<h2 align="center">More About me</h2>
+
+<div align="left">
+  
+- 👨‍💻 All of my projects are available at [nermportfolio.vercel.app](nermportfolio.vercel.app)
+
+- 💬 Ask me about **JavaScript, Angular, React, Sass, UI/UX**
+
+- 📫 How to reach me **nerm.frontend@gmail.com**
+
+</div>
