@@ -98,8 +98,8 @@
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/NermFrontDev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/NermFrontDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/NermFrontDev/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/NermFrontDev/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
