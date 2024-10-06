@@ -1,12 +1,15 @@
-<img align="center" width="100%" src="https://media.licdn.com/dms/image/v2/D4E16AQG3zWCTuHoEug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682902870163?e=1732147200&v=beta&t=RWN5WIZiu0YtRKRKPeMsWdVrkibjmnx46bil3ApLW0M">
+<div align="center">
+  <img align="center" width="100%" src="./assets/banner.jpg">
+</div>
 
-<h1 align="center">Hi 👋, I'm Nahum Ramirez</h1>
-<h3 align="center">A passionate frontend developer living in Arizona</h3>
+<br>
+
+<h1 align="center">Hi 👋🏼, I'm Nahum Ramirez</h1>
+<p align="center">Front-end and UI developer👨🏽‍💻 specializing in creating visually appealing and user-friendly web interfaces. Committed to clean code and innovative solutions.</p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nermfrontdev" alt="nermfrontdev" /></a> </p> -->
 
 
-###
 <br>
 <div align = "center">
 
@@ -82,13 +85,14 @@
 <h2 align="center">📫 Connect with me</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <br>
+  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
 </div>
 
 ###
@@ -104,13 +108,13 @@
 </div>
 
 <br>
-<h2 align="center">More About me</h2>
+<h2 align="center">More About me👨🏽‍💻</h2>
 
 <div align="left">
   
 - 👨‍💻 All of my projects are available at [nermportfolio.vercel.app](nermportfolio.vercel.app)
 
-- 💬 Ask me about **JavaScript, Angular, React, Sass, UI/UX**
+- 💬 Ask me about **JavaScript, Angular, React, UI/UX**
 
 - 📫 How to reach me **nerm.frontend@gmail.com**
 
